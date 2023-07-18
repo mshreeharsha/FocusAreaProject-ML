@@ -1,4 +1,4 @@
-# FocusAreaProject-ML
+# Classification of Diseased Pomegranate
 
 The aim of the project deals with the Classification of the disease-affected Pomegranate fruit into 3 classes Bacterial, Fungal, or Healthy.
 The data set consisted of 239 Images of Leaves and 419 Images of Fruits.
